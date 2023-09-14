@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695385430630",
+    "project_id": "viserbank-8844b",
+    "storage_bucket": "viserbank-8844b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695385430630:android:30db20af89394e46752ba7",
+        "android_client_info": {
+          "package_name": "dev.vlab.vbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695385430630-2jdhgk85r7agktqt0bba2hpft490pt9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAojrVZg7lluDFg2lxt228w3Rot9owdy2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695385430630-2jdhgk85r7agktqt0bba2hpft490pt9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
